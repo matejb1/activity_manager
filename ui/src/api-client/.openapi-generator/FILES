@@ -1,0 +1,17 @@
+.gitignore
+.npmignore
+api.ts
+base.ts
+common.ts
+configuration.ts
+docs/ActivityDTO.md
+docs/ActivityResourceApi.md
+docs/CategoryDTO.md
+docs/CategoryResourceApi.md
+docs/Pageable.md
+docs/StatisticsDTO.md
+docs/StatisticsResourceApi.md
+docs/UserDTO.md
+docs/UserResourceApi.md
+git_push.sh
+index.ts

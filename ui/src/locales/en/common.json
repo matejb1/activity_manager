@@ -1,0 +1,50 @@
+{
+  "common": {
+    "home": "Home",
+    "edit": "Edit",
+    "close": "Close",
+    "save": "Save",
+    "saveChanges": "Save Changes",
+    "viewMore": "View More",
+    "delete": "Delete",
+    "filter": "Filter",
+    "seeAll": "See all",
+    "actions": "Actions"
+  },
+  "sidebar": {
+    "items": {
+      "dashboard": "Dashboard",
+      "activities": "Activities"
+    }
+  },
+  "userDropdown": {
+    "language": "Language",
+    "signOut": "Sign out"
+  },
+  "activities": {
+    "createActivity": "Create an activity",
+    "info": "Info",
+    "enterActivityName": "Enter activity name",
+    "selectCategory": "Category",
+    "selectCategoryPlaceHolder": "Select category",
+    "activityName": "Name",
+    "activityTitlePlaceholder": "Activity name",
+    "activityDescription": "Description",
+    "enterActivityDescription": "Enter activity description",
+    "duration": "Duration",
+    "date": "Date",
+    "enterDate": "Enter date",
+    "startTime": "Start time",
+    "timeDuration": "Duration in hours"
+  },
+  "table": {
+    "modal": {
+      "title": "Delete activity",
+      "deleteActivity": "Are you realy sure to delete this activity?"
+    }
+  },
+  "dashboard": {
+    "allDuration": "Duration of activities by category",
+    "allCount": "Numbers of activities by category"
+  }
+}

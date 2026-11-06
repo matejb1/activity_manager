@@ -1,0 +1,50 @@
+{
+  "common": {
+    "home": "Domov",
+    "edit": "Uredi",
+    "close": "Zapri",
+    "save": "Shrani",
+    "saveChanges": "Save Changes",
+    "viewMore": "View More",
+    "delete": "Izbriši",
+    "filter": "Filter",
+    "seeAll": "See all",
+    "actions": "Akcije"
+  },
+  "sidebar": {
+    "items": {
+      "dashboard": "Nadzorna plošča",
+      "activities": "Aktivnosti"
+    }
+  },
+  "userDropdown": {
+    "language": "Jezik",
+    "signOut": "Odjava"
+  },
+  "activities": {
+    "createActivity": "Ustvari aktivnost",
+    "info": "Informacije",
+    "enterActivityName": "Vnesite ime aktivnosti",
+    "selectCategory": "Kategorija",
+    "selectCategoryPlaceHolder": "Izberite kategorijo",
+    "activityName": "Ime",
+    "activityTitlePlaceholder": "Ime aktivnosti",
+    "activityDescription": "Opis",
+    "enterActivityDescription": "Vnesite opis aktivnosti",
+    "duration": "Trajanje",
+    "date": "Datum",
+    "enterDate": "Vnesite datum",
+    "startTime": "Čas začetka",
+    "timeDuration": "Trajanje v urah"
+  },
+  "table": {
+    "modal": {
+      "title": "Izbriši aktivnost",
+      "deleteActivity": "Ali ste res prepričani, da želite izbrisati to aktivnost?"
+    }
+  },
+  "dashboard": {
+    "allDuration": "Trajanje aktivnosti po kategorijah",
+    "allCount": "Število aktivnosti po kategorijah"
+  }
+}

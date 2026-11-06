@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authenticationType": "jwt",
+    "baseName": "activities",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "no",
+    "clientTestFrameworks": null,
+    "clientTheme": null,
+    "creationTimestamp": 1789316067735,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "enableHibernateCache": true,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": true,
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "MTE3MjkwZjFlYzUxMGNmMGI1YjI4OTJkNWEwMGU4YjhmZWM5N2EzYzhmZGJiODJlZDVlZDhiMTk1YjM5OGExZjY4MTVhMTc1N2VhZjFhNjdkMjhhMjJjMDFkYmY3ZGJmMDczMWU0MmRlN2FhNzk0ZDU3ZDk3MDdiZDUwOGI0Njk=",
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.mycompany.myapp",
+    "prodDatabaseType": "postgresql",
+    "reactive": false,
+    "serverPort": 8081,
+    "serviceDiscoveryType": "no",
+    "skipClient": true,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": null
+  }
+}
